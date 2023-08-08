@@ -51,6 +51,7 @@ export const config: TemplateConfig = {
       "name",
       "address",
       "mainPhone",
+      "c_cateringPhoneNumber",
       "description",
       "hours",
       "slug",
